@@ -10,7 +10,6 @@ Soy un entusiasta del mundo de la informática con una fuerte orientación al ap
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=n1ghtRyd3r&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ![n1ghtRyd3r's Stats](https://github-readme-stats.vercel.app/api?username=n1ghtRyd3r&theme=radical&show_icons=true&hide_border=true&count_private=false)
 
