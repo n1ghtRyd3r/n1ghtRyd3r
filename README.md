@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p align="justify">
-Hello there, I’m n1ght an informatics enthusiast with passion on automations, networking  and Cybersecurity. Currently I’m a self-taught student to upgrade my skills and this is my portfolio. Feel free to take a look around my projects or connect with me on Linkedin or by email. 
+Hello! I’m n1ght, an informatics enthusiast with a passion for automation, networking, and cybersecurity. I’m currently a self-taught student focused on improving my skills, and this is my portfolio. Feel free to explore my projects, and don’t hesitate to connect with me on LinkedIn or via email.
 </p>
 
 # 🌐 Socials:
